@@ -44,7 +44,8 @@ The **Banking System Application** is a Python-based console program that provid
 3. Run the following command to start the application:  
    ```bash
    python banking_system.py
-   ![Screenshot (161)](https://github.com/user-attachments/assets/0fe46269-13d0-40b4-8f45-856d7bd788da)
+   
+![Screenshot (161)](https://github.com/user-attachments/assets/0fe46269-13d0-40b4-8f45-856d7bd788da)
 
 ![Screenshot (162)](https://github.com/user-attachments/assets/e40942e0-f32c-4b4c-9359-be2af7b7cd62)
 
