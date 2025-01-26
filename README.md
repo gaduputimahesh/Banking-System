@@ -24,13 +24,7 @@ The **Banking System Application** is a Python-based console program that provid
 ### 5️⃣ Exit the Application  
 - Gracefully exits the program after completing all necessary operations.  
 
----
-
-## 🛠️ Technologies Used  
-- **Programming Language**: Python  
-- **Libraries**: None (utilizes core Python features for simplicity).  
-
----
+--- 
 
 ## 📋 Prerequisites  
 - Python 3.x installed on your system.  
