@@ -44,18 +44,9 @@ The **Banking System Application** is a Python-based console program that provid
 3. Run the following command to start the application:  
    ```bash
    python banking_system.py
+![Screenshot (162)](https://github.com/user-attachments/assets/1ddb4236-b1d4-4e03-af13-61cba7ab949d)
+![Screenshot (161)](https://github.com/user-attachments/assets/bcc5f745-3322-4ea6-acd7-e31ccd895b3b)
 
-=====================================
-       ----Welcome to Mahesh Bank----
-=====================================
-
-=<< 1. Open a new account        >>=  
-=<< 2. Withdraw Money            >>=  
-=<< 3. Deposit Money             >>=  
-=<< 4. Check Customers & Balance >>=  
-=<< 5. Exit/Quit                 >>=  
-
-Select your choice number from the above menu:
 
 
 You can use this file as your **README.md** to accompany the project repository or documentation. Let me know if you'd like any further modifications!
